@@ -1,0 +1,30 @@
+{
+    "token": "TOKEN_HERE",
+    "on": 1,
+    "chance": 35,
+    "status": "Crayon eating simulator",
+    "adminrole": 0,
+    "allowedchannel": 0,
+    "randomtotal": 7,
+    "goodtotal": 3,
+    "badtotal": 3,
+    "random_msg": {
+        "1": "Fr",
+        "2": "Haha funny",
+        "3": "Haha",
+        "4": "Bad opinion",
+        "5": "Good point",
+        "6": "L",
+        "7": "ratio"
+    },
+    "goodmsg": {
+        "1": "Thanks frien :3",
+        "2": "I agree",
+        "3": "Thanks!"
+    },
+    "badmsg": {
+        "1": "Fuck off with your goofy ahh hair",
+        "2": "Hey, smell that? It smells like a bad opinion",
+        "3": "You smell"
+    }
+}
